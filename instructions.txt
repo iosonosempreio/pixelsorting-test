@@ -1,0 +1,11 @@
+ssh pi@<ip>
+
+192.168.1.90 (di casa)
+192.168.178.60 (Lussemburgo)
+
+password: raspberry
+
+vncserver
+
+Got o finder, CMD+K, vnc://raspberrypi.local:5901
+Password: raspberry
